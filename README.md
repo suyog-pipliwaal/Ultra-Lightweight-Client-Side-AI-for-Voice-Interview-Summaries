@@ -5,17 +5,17 @@
 
 ## Requirements
 ### Constraints
-Model size ≤30MB
-Fully client-side (ONNX / WASM)
-Inference latency <50ms
-Tasks
-Real-time summarization of conversation text
-Detect pauses in text-to-speech responses
-Insert contextual filler phrases using same TTS output
-Success Criteria
-Runs offline
-No perceivable lag
-Accurate, meaningful filler + summary generation
+* Model size ≤30MB
+* Fully client-side (ONNX / WASM)
+* Inference latency <50ms
+### Tasks 
+* Real-time summarization of conversation text
+* Detect pauses in text-to-speech responses
+8 Insert contextual filler phrases using same TTS output
+### Success Criteria
+* Runs offline
+* No perceivable lag
+* Accurate, meaningful filler + summary generation
 
 
 ## Deliverable
