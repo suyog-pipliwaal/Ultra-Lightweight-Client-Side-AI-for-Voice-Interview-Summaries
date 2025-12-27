@@ -1,4 +1,3 @@
-// import './App.css'
 import InterviewDemo from './InterviewDemo'
 function App() {
   return (

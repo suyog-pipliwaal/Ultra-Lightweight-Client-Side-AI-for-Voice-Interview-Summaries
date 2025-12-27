@@ -11,7 +11,7 @@
 ### Tasks 
 * Real-time summarization of conversation text
 * Detect pauses in text-to-speech responses
-8 Insert contextual filler phrases using same TTS output
+* Insert contextual filler phrases using same TTS output
 ### Success Criteria
 * Runs offline
 * No perceivable lag
