@@ -137,4 +137,5 @@ frontend/
 - ✅ Could not figure it why workers does not work on safari
 - ✅ Need to manully export the model Code is available in model_export dir. I run this code on google colab. 
 - ✅ Contextual filler phrase generation
-- ✅ Summary that are generated are not very good quality 
+- ✅ Summary that are generated are not very good quality
+- ✅ You will see two contribute in this repo both are my accouts. I have multiple accounts one github and one for bitbucket. 
